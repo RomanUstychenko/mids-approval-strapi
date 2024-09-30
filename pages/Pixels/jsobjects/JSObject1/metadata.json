@@ -1,0 +1,20 @@
+{
+  "gitSyncId": "66e42e1eb6e6e80c3bbdf318_d0f5ea43-2c25-44fa-a5a5-87ab50bf5908",
+  "id": "Pixels_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Pixels",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      }
+    ]
+  }
+}
