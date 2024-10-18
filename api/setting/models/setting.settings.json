@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "settings",
+  "info": {
+    "name": "Setting",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Login": {
+      "type": "string"
+    },
+    "Blacklist": {
+      "type": "string"
+    },
+    "AfiliateID": {
+      "type": "string"
+    },
+    "Password": {
+      "type": "string"
+    }
+  }
+}
